@@ -1,2 +1,2 @@
 # Quote_Generator
-Motivation Quotes
+Created an React Quote_Generator App.We have use react at frontend and Json Api requests in react apps.
